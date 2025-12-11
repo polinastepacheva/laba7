@@ -1,0 +1,9 @@
+#ignorirovanie logov - vremenie faili i ne dolzhni bit' v repositorie
+*.log
+#ignorirovanie binarnih failov kotorie generiruet compilator
+*.dll
+#ignoriruem vremenie faili redatorov
+*~
+#ignoriruem faili rezervnih kopii
+*.bak
+
